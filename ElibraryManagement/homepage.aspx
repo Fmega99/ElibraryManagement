@@ -34,4 +34,30 @@
     <section>
         <img src="imgs/in-homepage-banner.jpg" class="img-fluid"/>
     </section>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>Easy to Follow Steps before jumping into the wondrous world of books</h2>
+                    <p><b>follow these simple steps</b></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <img width="150px" src="imgs/sign-up.png" />
+                    <h4>Sign In</h4>
+                    <p class="text-justify">She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different.</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <img width="150px" src="imgs/search-online.png" />
+                    <h4>Search Books</h4>
+                    <p class="text-justify">She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different.</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <img width="150px" src="imgs/library.png" />
+                    <h4>Visit Us!</h4>
+                    <p class="text-justify">She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different.</p>
+                </div>
+            </div>
+    </section>
 </asp:Content>
